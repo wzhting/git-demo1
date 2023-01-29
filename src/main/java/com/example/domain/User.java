@@ -4,5 +4,5 @@ import java.io.Serializable;
 
 public class User implements Serializable {
     private String username;
-    private String hotFix;
+    private String hotFix1;
 }
